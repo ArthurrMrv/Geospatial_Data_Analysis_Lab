@@ -20,7 +20,6 @@ The analysis is presented through an interactive Streamlit dashboard with multip
 ### Installation
 ```bash
 # Clone or download the project
-cd lab1
 
 # Install dependencies
 pip install -r requirements.txt
@@ -97,7 +96,7 @@ Interactive Visualizations
 
 ### File Structure
 ```
-lab1/
+project/
 ├── lab_1.ipynb              # Main analysis notebook
 ├── streamlit.py             # Dashboard application
 ├── requirements.txt         # Python dependencies
